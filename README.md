@@ -54,3 +54,4 @@ Open http://localhost:3000
 5. Application in browser: ![Browser](screenshots/5-browser.png)
 6. Docker Hub repository: ![Hub](screenshots/6-dockerhub.png)
 7. Docker pull and run: ![Pull](screenshots/7-pull.png)
+8. .dockerignore: ![dockerignore](screenshots/8-dockerignore.png)
